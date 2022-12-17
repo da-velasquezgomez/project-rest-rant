@@ -11,3 +11,4 @@ module.exports = [{
     cuisines: 'Coffee, Bakery',
     pic: '/images/cutekitten.jpg'
 }]
+
